@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi there! My name is Dhairya Brahmbhatt and I am a skilled Database Administrator with expertise in SQL, data warehousing, database security, and performance tuning tools. I am excited to share my professional experience and projects with you on GitHub.<br><br>My passion for database administration began during my time at CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY, where I completed my Bachelor's in Computer Applications with relevant coursework in Programming Fundamentals, Database Management Systems, Data Structures, and Algorithms. Since then, I have gained practical experience working as a Database Administrator at Daymak and as a Clinic Coordinator at Occu-Med Health Services Inc.
+💼 Professional Summary:
+Greetings! I'm Dhairya Brahmbhatt, a seasoned Database Administrator proficient in SQL, data warehousing, database security, and performance tuning tools. My GitHub serves as a showcase for the depth of my professional experience and the impactful projects I've undertaken.
+
+🎓 Educational Background:
+I earned my Bachelor's in Computer Applications from CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY. During my academic journey, I delved into essential subjects such as Programming Fundamentals, Database Management Systems, Data Structures, and Algorithms, laying a solid foundation for my subsequent career.
+
+💻 Professional Experience:
+I bring practical expertise as a Database Administrator, having honed my skills. Additionally, my role as a Clinic Coordinator at Occu-Med Health Services Inc. has equipped me with a comprehensive understanding of the intersection between healthcare operations and database management.
+
+🚀 Key Competencies:
+Database Administration: Proficient in managing and optimizing databases for enhanced performance.
+SQL Mastery: Adept at leveraging SQL to extract meaningful insights and ensure data accuracy.
+Security Expertise: Well-versed in implementing robust security measures to safeguard sensitive information.
+Project Showcase: Explore my GitHub repositories to witness firsthand the results of my dedication to excellence in database administration.
+I look forward to collaborating and contributing to the dynamic GitHub community. Let's connect and explore the exciting realm of data together!
 
 
 ## 🌐 Socials:
